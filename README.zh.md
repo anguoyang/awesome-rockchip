@@ -6,7 +6,7 @@
 
 覆盖 RK3588 / RK3588S、RK3576、RK3566 / RK3568、RV1106 / RV1126。
 
-**共 107 条** · 最后更新：2026-11-02
+**共 108 条** · 最后更新：2026-11-02
 
 ## 维护承诺
 
@@ -23,7 +23,7 @@
 - 操作系统、引导与内核 — 19 条
 - RKNN、RKLLM 与 AI 工具链 — 15 条
 - 模型与部署 — 18 条
-- 多媒体 — 13 条
+- 多媒体 — 14 条
 - 开发工具 — 13 条
 - 社区、文档与教程 — 13 条
 
@@ -118,6 +118,7 @@
 - [Kwiboo/linux-rockchip](https://github.com/Kwiboo/linux-rockchip) - 偏主线的内核分支，跟踪新近瑞芯微平台的 DRM 显示与视频解码器使能工作。
 - [corenel/gstreamer-rga](https://github.com/corenel/gstreamer-rga) - 小型 GStreamer 插件，暴露瑞芯微 RGA 模块，让管线能把图像缩放与格式转换卸载出去。
 - [numbqq/rkaiq-rockchip-debs](https://github.com/numbqq/rkaiq-rockchip-debs) - 瑞芯微 rkaiq 摄像头调校与 3A 服务组件的 Debian 打包，面向 RK356x 与 RK3588 系统。
+- [anguoyang/onvif-scan](https://github.com/anguoyang/onvif-scan) - 发现局域网内的 ONVIF 摄像头，盘点其设备信息、媒体 Profile 与流地址，输出 JSON 与 HTML 报告。
 - [JeffyCN/libv4l-rkmpp](https://github.com/JeffyCN/libv4l-rkmpp) - 通过 V4L2 接口呈现 MPP 编解码的插件，让 Chromium 能把浏览器视频交给 VPU。
 - [woodyst/rockchip-vaapi](https://github.com/woodyst/rockchip-vaapi) - VA-API 后端，把标准 Linux 视频加速调用转接到 RK3588 硬件上的 MPP。
 - [tsukumijima/libmali-rockchip](https://github.com/tsukumijima/libmali-rockchip) - 瑞芯微显示与图形栈所用 Mali 用户态 GPU 驱动的 Debian 打包与镜像。

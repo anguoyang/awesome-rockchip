@@ -6,7 +6,7 @@
 
 Covers RK3588 / RK3588S, RK3576, RK3566 / RK3568, and RV1106 / RV1126.
 
-**107 entries** · Last updated: 2026-11-02
+**108 entries** · Last updated: 2026-11-02
 
 ## Maintenance pledge
 
@@ -23,7 +23,7 @@ Most Rockchip lists go stale. This one is run differently:
 - [OS, Bootloader & Kernel](#os-bootloader--kernel) — 19 entries
 - [RKNN, RKLLM & AI Toolchain](#rknn-rkllm--ai-toolchain) — 15 entries
 - [Models & Deployment](#models--deployment) — 18 entries
-- [Multimedia](#multimedia) — 13 entries
+- [Multimedia](#multimedia) — 14 entries
 - [Development Tools](#development-tools) — 13 entries
 - [Community, Docs & Learning](#community-docs--learning) — 13 entries
 
@@ -118,6 +118,7 @@ Most Rockchip lists go stale. This one is run differently:
 - [Kwiboo/linux-rockchip](https://github.com/Kwiboo/linux-rockchip) - Mainline-oriented kernel fork tracking DRM display and video-decoder enablement work for recent Rockchip platforms.
 - [corenel/gstreamer-rga](https://github.com/corenel/gstreamer-rga) - Small GStreamer plugin that exposes the Rockchip RGA block so pipelines can offload image resizing and format conversion.
 - [numbqq/rkaiq-rockchip-debs](https://github.com/numbqq/rkaiq-rockchip-debs) - Debian packaging for Rockchip's rkaiq camera tuning and 3A server components aimed at RK356x and RK3588 systems.
+- [anguoyang/onvif-scan](https://github.com/anguoyang/onvif-scan) - Discovers ONVIF cameras on a local network and inventories their device information, media profiles and stream URIs into JSON and HTML reports.
 - [JeffyCN/libv4l-rkmpp](https://github.com/JeffyCN/libv4l-rkmpp) - Plugin that presents Rockchip MPP codecs through a V4L2 interface so Chromium can hand browser video work to the VPU.
 - [woodyst/rockchip-vaapi](https://github.com/woodyst/rockchip-vaapi) - VA-API backend that routes standard Linux video acceleration calls into MPP on RK3588 hardware.
 - [tsukumijima/libmali-rockchip](https://github.com/tsukumijima/libmali-rockchip) - Debian packaging and mirror of the Mali userspace GPU driver used by Rockchip display and graphics stacks.
