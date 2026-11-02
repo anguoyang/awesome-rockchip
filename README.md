@@ -6,7 +6,7 @@
 
 Covers RK3588 / RK3588S, RK3576, RK3566 / RK3568, and RV1106 / RV1126.
 
-**108 entries** · Last updated: 2026-11-02
+**109 entries** · Last updated: 2026-11-02
 
 ## Maintenance pledge
 
@@ -24,7 +24,7 @@ Most Rockchip lists go stale. This one is run differently:
 - [RKNN, RKLLM & AI Toolchain](#rknn-rkllm--ai-toolchain) — 15 entries
 - [Models & Deployment](#models--deployment) — 18 entries
 - [Multimedia](#multimedia) — 14 entries
-- [Development Tools](#development-tools) — 13 entries
+- [Development Tools](#development-tools) — 14 entries
 - [Community, Docs & Learning](#community-docs--learning) — 13 entries
 
 ## Boards & Vendors
@@ -132,6 +132,7 @@ Most Rockchip lists go stale. This one is run differently:
 - [KiwiPi RKDevTool guide](https://kiwipi.com/blog/rkdevtool/) - Vendor guide to downloading RKDevTool and using its Windows interface to flash full firmware packages or single partitions.
 - [ThomasKaiser/sbc-bench](https://github.com/ThomasKaiser/sbc-bench) - Shell benchmark suite for single-board computers that checks clocks, thermals and storage behaviour, widely used to validate RK3588 boards.
 - [anguoyang/rk-edge-doctor](https://github.com/anguoyang/rk-edge-doctor) - Diagnostics CLI for Rockchip boards that reports board health, checks RKNN models for CPU fallback and validates RTSP camera streams.
+- [anguoyang/rk-deploy](https://github.com/anguoyang/rk-deploy) - Packages RKNN applications into versioned bundles and deploys them to Rockchip boards as systemd services over SSH, with rollback and fleet status checks.
 - [orangepi-xunlong/wiringOP](https://github.com/orangepi-xunlong/wiringOP) - WiringPi-style C library adapted by Xunlong for GPIO and peripheral access on Orange Pi boards, including Rockchip-based models.
 - [brgl/libgpiod](https://github.com/brgl/libgpiod) - C library and command-line tools for the Linux GPIO character device, the modern way to drive pins on Rockchip boards.
 - [rm-hull/OPi.GPIO](https://github.com/rm-hull/OPi.GPIO) - Python GPIO package for Orange Pi boards that offers an RPi.GPIO-compatible interface on models built around Rockchip SoCs.

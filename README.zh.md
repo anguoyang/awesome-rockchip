@@ -6,7 +6,7 @@
 
 覆盖 RK3588 / RK3588S、RK3576、RK3566 / RK3568、RV1106 / RV1126。
 
-**共 108 条** · 最后更新：2026-11-02
+**共 109 条** · 最后更新：2026-11-02
 
 ## 维护承诺
 
@@ -24,7 +24,7 @@
 - RKNN、RKLLM 与 AI 工具链 — 15 条
 - 模型与部署 — 18 条
 - 多媒体 — 14 条
-- 开发工具 — 13 条
+- 开发工具 — 14 条
 - 社区、文档与教程 — 13 条
 
 ## 板卡与厂商
@@ -132,6 +132,7 @@
 - [KiwiPi RKDevTool guide](https://kiwipi.com/blog/rkdevtool/) - 厂商指南，介绍 RKDevTool 的下载与 Windows 界面用法，可刷整包固件或单个分区。
 - [ThomasKaiser/sbc-bench](https://github.com/ThomasKaiser/sbc-bench) - 单板机 Shell 跑分套件，检查频率、温度与存储行为，常用于验证 RK3588 板卡。
 - [anguoyang/rk-edge-doctor](https://github.com/anguoyang/rk-edge-doctor) - 瑞芯微板卡诊断 CLI，报告板卡健康、检查 RKNN 模型是否回退到 CPU、并验收 RTSP 摄像头码流。
+- [anguoyang/rk-deploy](https://github.com/anguoyang/rk-deploy) - 把 RKNN 应用打包成版本化部署包，经 SSH 推送到瑞芯微板卡上以 systemd 服务运行，支持回滚与舰队状态巡检。
 - [orangepi-xunlong/wiringOP](https://github.com/orangepi-xunlong/wiringOP) - 迅龙适配的 WiringPi 风格 C 库，用于 Orange Pi 板卡的 GPIO 与外设访问，含瑞芯微型号。
 - [brgl/libgpiod](https://github.com/brgl/libgpiod) - Linux GPIO 字符设备的 C 库与命令行工具，在瑞芯微板卡上驱动引脚的现代做法。
 - [rm-hull/OPi.GPIO](https://github.com/rm-hull/OPi.GPIO) - Orange Pi 的 Python GPIO 包，为瑞芯微 SoC 型号提供与 RPi.GPIO 兼容的接口。
