@@ -6,7 +6,7 @@
 
 Covers RK3588 / RK3588S, RK3576, RK3566 / RK3568, and RV1106 / RV1126.
 
-**108 entries** · Last updated: 2026-11-02
+**107 entries** · Last updated: 2026-11-02
 
 ## Maintenance pledge
 
@@ -21,7 +21,7 @@ Most Rockchip lists go stale. This one is run differently:
 
 - [Boards & Vendors](#boards--vendors) — 16 entries
 - [OS, Bootloader & Kernel](#os-bootloader--kernel) — 19 entries
-- [RKNN, RKLLM & AI Toolchain](#rknn-rkllm--ai-toolchain) — 16 entries
+- [RKNN, RKLLM & AI Toolchain](#rknn-rkllm--ai-toolchain) — 15 entries
 - [Models & Deployment](#models--deployment) — 18 entries
 - [Multimedia](#multimedia) — 13 entries
 - [Development Tools](#development-tools) — 13 entries
@@ -75,7 +75,6 @@ Most Rockchip lists go stale. This one is run differently:
 - [airockchip/rknn3-toolkit](https://github.com/airockchip/rknn3-toolkit) - Rockchip's next-generation conversion toolkit aimed at its newer NPU generation beyond the RKNN2 device range.
 - [airockchip/rknn-llm](https://github.com/airockchip/rknn-llm) - Rockchip's official stack for converting large language and vision-language models into RKLLM format and running them on the NPU.
 - [rockchip-linux/rknpu2](https://github.com/rockchip-linux/rknpu2) - The second-generation NPU runtime SDK with the C API and libraries that load and execute RKNN2 models on the board.
-- [leafqycc7/onnx2rknn](https://github.com/leafqycc7/onnx2rknn) - A small utility that wraps the official conversion flow to turn ONNX models into RKNN files with a shorter command line.
 - [leafqycc/rknn-cpp-Multithreading](https://github.com/leafqycc/rknn-cpp-Multithreading) - A C++ example framework that spreads RKNN inference across multiple threads to use several NPU cores at once.
 - [swdee/go-rknnlite](https://github.com/swdee/go-rknnlite) - Go bindings for the RKNN Toolkit2 C API with worked examples covering detection and OCR models on RK35xx boards.
 - [darkautism/rknn-rs](https://github.com/darkautism/rknn-rs) - Rust bindings over the RKNN runtime so Rust programs can load and run models on Rockchip NPUs.

@@ -6,7 +6,7 @@
 
 覆盖 RK3588 / RK3588S、RK3576、RK3566 / RK3568、RV1106 / RV1126。
 
-**共 108 条** · 最后更新：2026-11-02
+**共 107 条** · 最后更新：2026-11-02
 
 ## 维护承诺
 
@@ -21,7 +21,7 @@
 
 - 板卡与厂商 — 16 条
 - 操作系统、引导与内核 — 19 条
-- RKNN、RKLLM 与 AI 工具链 — 16 条
+- RKNN、RKLLM 与 AI 工具链 — 15 条
 - 模型与部署 — 18 条
 - 多媒体 — 13 条
 - 开发工具 — 13 条
@@ -75,7 +75,6 @@
 - [airockchip/rknn3-toolkit](https://github.com/airockchip/rknn3-toolkit) - 瑞芯微下一代转换工具包，面向 RKNN2 设备范围之外的新一代 NPU。
 - [airockchip/rknn-llm](https://github.com/airockchip/rknn-llm) - 瑞芯微官方方案，把大语言模型与视觉语言模型转换为 RKLLM 格式并在 NPU 上运行。
 - [rockchip-linux/rknpu2](https://github.com/rockchip-linux/rknpu2) - 第二代 NPU 运行时 SDK，含在板端加载、执行 RKNN2 模型的 C API 与库文件。
-- [leafqycc7/onnx2rknn](https://github.com/leafqycc7/onnx2rknn) - 对官方转换流程的小封装，用更短的命令行把 ONNX 模型转成 RKNN 文件。
 - [leafqycc/rknn-cpp-Multithreading](https://github.com/leafqycc/rknn-cpp-Multithreading) - C++ 示例框架，把 RKNN 推理分发到多线程以同时用上多个 NPU 核心。
 - [swdee/go-rknnlite](https://github.com/swdee/go-rknnlite) - RKNN Toolkit2 C API 的 Go 绑定，附在 RK35xx 板卡上跑检测与 OCR 模型的完整示例。
 - [darkautism/rknn-rs](https://github.com/darkautism/rknn-rs) - RKNN 运行时的 Rust 绑定，让 Rust 程序能在瑞芯微 NPU 上加载、运行模型。

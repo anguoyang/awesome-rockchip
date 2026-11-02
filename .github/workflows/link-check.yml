@@ -20,10 +20,17 @@ jobs:
         id: lychee
         uses: lycheeverse/lychee-action@v2
         with:
+          # Excluded hosts: opensource.rock-chips.com, www.orangepi.org and
+          # wiki.t-firefly.com refuse connections from GitHub-hosted runners
+          # (verified live by hand; re-verified manually in the monthly
+          # maintenance round instead). Everything else is checked weekly.
           args: >-
             --verbose
             --no-progress
             --accept 200,204,206,301,302,307,308,403,429
+            --exclude "opensource\.rock-chips\.com"
+            --exclude "www\.orangepi\.org"
+            --exclude "wiki\.t-firefly\.com"
             README.md README.zh.md
           output: ./lychee/out.md
           fail: true
