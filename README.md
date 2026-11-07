@@ -6,7 +6,7 @@
 
 Covers RK3588 / RK3588S, RK3576, RK3566 / RK3568, and RV1106 / RV1126.
 
-**109 entries** · Last updated: 2026-11-02
+**111 entries** · Last updated: 2026-11-08
 
 ## Maintenance pledge
 
@@ -22,7 +22,7 @@ Most Rockchip lists go stale. This one is run differently:
 - [Boards & Vendors](#boards--vendors) — 16 entries
 - [OS, Bootloader & Kernel](#os-bootloader--kernel) — 19 entries
 - [RKNN, RKLLM & AI Toolchain](#rknn-rkllm--ai-toolchain) — 15 entries
-- [Models & Deployment](#models--deployment) — 18 entries
+- [Models & Deployment](#models--deployment) — 20 entries
 - [Multimedia](#multimedia) — 14 entries
 - [Development Tools](#development-tools) — 14 entries
 - [Community, Docs & Learning](#community-docs--learning) — 13 entries
@@ -99,7 +99,9 @@ Most Rockchip lists go stale. This one is run differently:
 - [LuckfoxTECH/luckfox_pico_rknn_example](https://github.com/LuckfoxTECH/luckfox_pico_rknn_example) - Luckfox's official RKNN examples for its RV1106 Pico boards showing small vision models running on a 0.5 TOPS NPU.
 - [Qengineering/Qwen3-VL-2B-NPU](https://github.com/Qengineering/Qwen3-VL-2B-NPU) - A port of the Qwen3-VL 2B vision-language model that pairs an RKNN vision encoder with an RKLLM decoder on RK3588.
 - [Qengineering/SmolVLM2-500M-NPU](https://github.com/Qengineering/SmolVLM2-500M-NPU) - A compact SmolVLM2 vision-language model packaged to answer questions about images entirely on the RK3588 NPU.
+- [zyp0424/Qwen-Chat-Assistant](https://github.com/zyp0424/Qwen-Chat-Assistant) - A fully local voice-and-vision chat assistant for RK3588 that feeds camera frames through an RKNN vision model into an RKLLM Qwen3 model, with wake-word, speech recognition and synthesis stages.
 - [NotPunchnox/rkllama](https://github.com/NotPunchnox/rkllama) - An Ollama-style server and client that runs RKLLM models on the NPU of RK3588 and RK3576 boards instead of the CPU.
+- [kyshipit/eai-rk3588](https://github.com/kyshipit/eai-rk3588) - A plugin-based edge AI platform for RK3588 that drives a multi-threaded vision pipeline (RKNN YOLO and SCRFD) alongside RKLLM dialogue and speech synthesis from one YAML configuration.
 - [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp) - The widely used GGUF inference engine that many RK3588 owners run on the board's CPU cores as the flexible fallback next to RKLLM.
 - [mlc-ai/mlc-llm](https://github.com/mlc-ai/mlc-llm) - A compiler-based LLM deployment framework that can target mobile GPUs such as the Mali GPU on RK3588 boards.
 - [k2-fsa/sherpa-onnx](https://github.com/k2-fsa/sherpa-onnx) - An offline speech toolkit for recognition synthesis and diarization that includes support for running models on Rockchip NPUs.

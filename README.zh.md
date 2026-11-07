@@ -6,7 +6,7 @@
 
 覆盖 RK3588 / RK3588S、RK3576、RK3566 / RK3568、RV1106 / RV1126。
 
-**共 109 条** · 最后更新：2026-11-02
+**共 111 条** · 最后更新：2026-11-08
 
 ## 维护承诺
 
@@ -22,7 +22,7 @@
 - 板卡与厂商 — 16 条
 - 操作系统、引导与内核 — 19 条
 - RKNN、RKLLM 与 AI 工具链 — 15 条
-- 模型与部署 — 18 条
+- 模型与部署 — 20 条
 - 多媒体 — 14 条
 - 开发工具 — 14 条
 - 社区、文档与教程 — 13 条
@@ -99,7 +99,9 @@
 - [LuckfoxTECH/luckfox_pico_rknn_example](https://github.com/LuckfoxTECH/luckfox_pico_rknn_example) - Luckfox 官方 RKNN 示例，面向其 RV1106 Pico 板，演示小视觉模型在 0.5 TOPS NPU 上运行。
 - [Qengineering/Qwen3-VL-2B-NPU](https://github.com/Qengineering/Qwen3-VL-2B-NPU) - Qwen3-VL 2B 视觉语言模型的移植：RKNN 视觉编码器配 RKLLM 解码器，运行在 RK3588 上。
 - [Qengineering/SmolVLM2-500M-NPU](https://github.com/Qengineering/SmolVLM2-500M-NPU) - 小型 SmolVLM2 视觉语言模型封装，可完全在 RK3588 NPU 上回答关于图片的问题。
+- [zyp0424/Qwen-Chat-Assistant](https://github.com/zyp0424/Qwen-Chat-Assistant) - 完全本地运行在 RK3588 上的多模态语音助手：摄像头画面经 RKNN 视觉模型提取特征后喂给 RKLLM 的 Qwen3 推理，含唤醒词、语音识别与合成全链路。
 - [NotPunchnox/rkllama](https://github.com/NotPunchnox/rkllama) - Ollama 风格的服务器与客户端，在 RK3588、RK3576 板卡的 NPU 而非 CPU 上运行 RKLLM 模型。
+- [kyshipit/eai-rk3588](https://github.com/kyshipit/eai-rk3588) - 插件化的 RK3588 边缘 AI 平台：单份 YAML 配置驱动多线程视觉流水线（RKNN YOLO、SCRFD），并集成 RKLLM 对话与语音合成。
 - [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp) - 广泛使用的 GGUF 推理引擎，许多 RK3588 用户用它在 CPU 核心上跑模型，作为 RKLLM 之外的灵活备选。
 - [mlc-ai/mlc-llm](https://github.com/mlc-ai/mlc-llm) - 基于编译器的 LLM 部署框架，可面向移动 GPU，例如 RK3588 板卡上的 Mali GPU。
 - [k2-fsa/sherpa-onnx](https://github.com/k2-fsa/sherpa-onnx) - 离线语音工具包，含识别、合成与说话人分离，并支持在瑞芯微 NPU 上运行模型。
