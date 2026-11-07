@@ -1,4 +1,4 @@
-# Awesome Rockchip
+# Awesome Rockchip [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 > A curated list of Rockchip boards, operating systems, AI toolchains, models, multimedia, development tools, and community resources — **actively maintained**.
 
@@ -7,8 +7,6 @@
 Covers RK3588 / RK3588S, RK3576, RK3566 / RK3568, and RV1106 / RV1126.
 
 **111 entries** · Last updated: 2026-11-08
-
-## Maintenance pledge
 
 Most Rockchip lists go stale. This one is run differently:
 
@@ -35,7 +33,7 @@ Most Rockchip lists go stale. This one is run differently:
 - [Orange Pi](https://github.com/orangepi-xunlong) - Xunlong's official organisation for Orange Pi boards, including the RK3588S-based Orange Pi 5 line and its RK3566 boards.
 - [Firefly](https://github.com/FireflyTeam) - Firefly's official organisation covering its RK3588 and RK3568 boards, core modules and Station-series mini PCs.
 - [FriendlyARM / NanoPi](https://github.com/friendlyarm) - FriendlyElec's source hub for NanoPi and NanoPC boards, spanning RK3588 flagships, RK3576 models and the RK3568 router-oriented R5 series.
-- [Khadas](https://github.com/khadas) - Khadas organisation hosting firmware, kernels and tooling for the Edge2 (RK3588S) and Edge (RK3399) boards.
+- [Khadas](https://github.com/khadas) - The organisation behind the Edge2 (RK3588S) and Edge (RK3399) boards, hosting their firmware, kernels and tooling.
 - [Pine64](https://github.com/pine64) - PINE64's organisation for its community-driven Rockchip hardware, including the RK3566 Quartz64 line and the RK3588 QuartzPro64.
 - [LubanCat](https://github.com/LubanCat) - Embedfire's LubanCat board organisation, with SDK manifests and images for its RK3588, RK3576 and RK3566/3568 development boards popular in China.
 - [Banana Pi](https://github.com/BPI-SINOVOIP) - Sinovoip's Banana Pi organisation, which includes Rockchip boards such as the RK3588-based BPI-W3 and RK3568 router boards.
@@ -163,6 +161,6 @@ Most Rockchip lists go stale. This one is run differently:
 
 See [CONTRIBUTING.md](CONTRIBUTING.md). In short: one line per entry (name + link + one-sentence description), the link must be live, and the project must be directly relevant to Rockchip platforms and either active in the last 12 months or a stable official baseline.
 
-## License
+---
 
-CC0 1.0 — see [LICENSE](LICENSE). The list itself is public domain; linked projects keep their own licenses.
+The list itself is released under [CC0 1.0](LICENSE) (public domain); linked projects keep their own licenses.

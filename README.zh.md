@@ -1,4 +1,4 @@
-# Awesome Rockchip（中文版）
+# Awesome Rockchip（中文版） [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 > Rockchip 生态精选名单：板卡、操作系统、AI 工具链、模型、多媒体、开发工具与社区资源 —— **持续活跃维护**。
 
@@ -7,8 +7,6 @@
 覆盖 RK3588 / RK3588S、RK3576、RK3566 / RK3568、RV1106 / RV1126。
 
 **共 111 条** · 最后更新：2026-11-08
-
-## 维护承诺
 
 多数 Rockchip 名单会慢慢过期，这份按另一套规矩运行：
 
@@ -35,7 +33,7 @@
 - [Orange Pi](https://github.com/orangepi-xunlong) - 迅龙软件官方组织，覆盖 Orange Pi 各板卡，包括 RK3588S 的 Orange Pi 5 系列与 RK3566 板型。
 - [Firefly](https://github.com/FireflyTeam) - Firefly 官方组织，覆盖其 RK3588 与 RK3568 板卡、核心板模块与 Station 系列迷你主机。
 - [FriendlyARM / NanoPi](https://github.com/friendlyarm) - FriendlyElec 的源码中心，覆盖 NanoPi 与 NanoPC 系列：RK3588 旗舰、RK3576 型号与主打路由的 RK3568 R5 系列。
-- [Khadas](https://github.com/khadas) - Khadas 官方组织，托管 Edge2（RK3588S）与 Edge（RK3399）的固件、内核与工具。
+- [Khadas](https://github.com/khadas) - Edge2（RK3588S）与 Edge（RK3399）板卡背后的厂商组织，托管其固件、内核与工具。
 - [Pine64](https://github.com/pine64) - PINE64 官方组织，维护其社区型瑞芯微硬件，包括 RK3566 的 Quartz64 系列与 RK3588 的 QuartzPro64。
 - [LubanCat](https://github.com/LubanCat) - 野火 LubanCat 板卡组织，含其 RK3588、RK3576、RK3566/3568 开发板的 SDK 清单与镜像，在国内用户中很常见。
 - [Banana Pi](https://github.com/BPI-SINOVOIP) - 香蕉派（Sinovoip）官方组织，包含 RK3588 的 BPI-W3 与 RK3568 路由板等瑞芯微型号。
@@ -163,6 +161,6 @@
 
 见 [CONTRIBUTING.md](CONTRIBUTING.md)。简要规则：每条一行（名称 + 链接 + 一句描述），链接必须可达，项目须与 Rockchip 平台直接相关，且近 12 个月有活动或是官方稳定基线。
 
-## 许可证
+---
 
-CC0 1.0 —— 见 [LICENSE](LICENSE)。名单本身进入公有领域；所链接项目保留各自许可证。
+名单本身以 [CC0 1.0](LICENSE) 发布（进入公有领域）；所链接项目保留各自许可证。
