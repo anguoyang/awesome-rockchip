@@ -153,7 +153,7 @@ Most Rockchip lists go stale. This one is run differently:
 - [PINE64 Wiki - ROCKPro64](https://wiki.pine64.org/index.php?title=ROCKPro64) - PINE64's community wiki documenting its Rockchip boards such as ROCKPro64 and Quartz64, from board layouts to software releases and datasheets.
 - [Khadas Docs - Edge2](https://docs.khadas.com/products/sbc/edge2/start) - Khadas documentation for the Edge series, covering installation, firmware, device-tree overlays and NPU topics for the RK3588S-based Edge2.
 - [awesome-RK3588 (choushunn)](https://github.com/choushunn/awesome-RK3588) - Another community-maintained list focused specifically on RK3588 resources, maintained independently of this list.
-- [Jeff Geerling - RK3588 Writing](https://www.jeffgeerling.com/tags/rk3588) - Jeff Geerling's RK3588-tagged posts collecting his hands-on testing and commentary on Rockchip boards such as the Rock 5 series.
+- [Jeff Geerling - RK3588 Writing](https://www.jeffgeerling.com/tags/rk3588/) - Jeff Geerling's RK3588-tagged posts collecting his hands-on testing and commentary on Rockchip boards such as the Rock 5 series.
 - [CNX Software - Rockchip RK35xx](https://www.cnx-software.com/category/processors/rockchip-rk35xx/) - CNX Software's RK35xx category tracking new Rockchip boards, modules and software developments as they are announced.
 - [linux-rockchip Mailing List](http://lists.infradead.org/mailman/listinfo/linux-rockchip) - The infradead mailing list where upstream kernel patches and reviews for Rockchip platforms are discussed.
 

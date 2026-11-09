@@ -153,7 +153,7 @@
 - [PINE64 Wiki - ROCKPro64](https://wiki.pine64.org/index.php?title=ROCKPro64) - PINE64 社区 Wiki，记录 ROCKPro64、Quartz64 等瑞芯微板卡的布局、软件发布与数据手册。
 - [Khadas Docs - Edge2](https://docs.khadas.com/products/sbc/edge2/start) - Khadas 的 Edge 系列文档，覆盖 RK3588S 的 Edge2 的安装、固件、设备树覆盖与 NPU 话题。
 - [awesome-RK3588 (choushunn)](https://github.com/choushunn/awesome-RK3588) - 另一份社区维护的名单，专注于 RK3588 资源，与本名单相互独立。
-- [Jeff Geerling - RK3588 Writing](https://www.jeffgeerling.com/tags/rk3588) - Jeff Geerling 以 RK3588 为标签的文章集合，收录他对 Rock 5 系列等瑞芯微板卡的实测与评论。
+- [Jeff Geerling - RK3588 Writing](https://www.jeffgeerling.com/tags/rk3588/) - Jeff Geerling 以 RK3588 为标签的文章集合，收录他对 Rock 5 系列等瑞芯微板卡的实测与评论。
 - [CNX Software - Rockchip RK35xx](https://www.cnx-software.com/category/processors/rockchip-rk35xx/) - CNX Software 的 RK35xx 分类，跟踪新发布的瑞芯微板卡、模块与软件动态。
 - [linux-rockchip Mailing List](http://lists.infradead.org/mailman/listinfo/linux-rockchip) - infradead 邮件列表，讨论瑞芯微平台的上游内核补丁与评审。
 
